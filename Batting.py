@@ -4,7 +4,7 @@ import altair as alt
 import numpy as np
 
 #import batting data
-bat_data = pd.read_csv('batting.csv')
+bat_data = pd.read_csv('Batting.csv')
 
 sl.write(bat_data)
 
